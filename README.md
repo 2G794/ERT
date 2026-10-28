@@ -1,6 +1,8 @@
 # Where and when did the GDR invent?
 
-#### Supervisor：Marta Bernardi Start Date:27.10.2026
+### Author: Like He
+
+#### Supervisor：Marta Bernardi                                                     Start Date:27.10.2026
 
 ## Preparation
 
