@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37a816d3-4e46-44df-a39f-cb0fc87f8b16" name="更改" comment=":tada:">
+      <change afterPath="$PROJECT_DIR$/.idea/Proj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/01_audit_patent_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/DDR Patente_Regionaldaten GESIS_final_cleaned.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/DDR Patente_Regionaldaten GESIS_final_cleaned.report.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Microsoft.Services.Store.winmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/clean_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/data_audit/duplicate_document_ids.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/data_audit/important_variables.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/data_audit/pilot_sample_30.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/data_audit/variable_quality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/ddr_patent_ocr_test_based.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/ocr_output/001.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/ocr_output/DD000000000001A1_all_pages.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/ocr_output/DEPATISnet _ Dokument DD000000000001A1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/ocr_output/ocr_results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/ocr_output/progress.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/test_pdf_connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/R/.Rprofile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/R/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/R/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/R/ERT.Rproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/R/README.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/R/Untitled.qmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/R/renv/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/R/renv/activate.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;2G794&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/2G794/ERT.git&quot;,
+    &quot;accountId&quot;: &quot;2c118ec2-f5a4-49db-84de-7d158af5ff35&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3LLXuXBrSRpm1b35Tz9LMrc8sPL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.01_audit_patent_csv.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/HLK-DE-2025/S5/Empirical ResearchTask/Proj"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="37a816d3-4e46-44df-a39f-cb0fc87f8b16" name="更改" comment="" />
+      <created>1793234547253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793234547253</updated>
+    </task>
+    <task id="LOCAL-00001" summary=":tada:">
+      <option name="closed" value="true" />
+      <created>1793234763687</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1793234763687</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":tada:" />
+    <option name="LAST_COMMIT_MESSAGE" value=":tada:" />
+  </component>
+</project>
