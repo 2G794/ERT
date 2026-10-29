@@ -2,7 +2,9 @@
 
 ### Author: Like He
 
-#### Supervisor：Marta Bernardi Start Date:27.10.2026
+#### Supervisor：Marta Bernardi   
+
+#### Start Date:27.10.2026
 
 ## Preparation
 
@@ -11,7 +13,7 @@
 #### Target :
 
 |  |  |  |  |  |
-|----------|------------------|-----------|---------------------|--------------|
+|----------|-------------------|--------------|----------------|--------------|
 | **Milestone** | **Name** | **Deadline** | **Presentation mode** | **Check** |
 | 1 | Research proposal | 3.11. | in class (4.11.) |  |
 | 2 | Data set | 24.11. | bilaterally with supervisor |  |
